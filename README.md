@@ -70,7 +70,7 @@ Collect some papers about few-shot object detection for computer vision. Additio
 
 ##  Datasets
 
-Most few-shot object detection papers usually follow the experimental setup in [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.pdf) and [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.pdf) and conduct experiments on PASCAL VOC and MS COCO datasets.
+Most few-shot object detection papers usually follow the experimental setup in 《[Meta R-CNN : Towards General Solver for Instance-level Low-shot Learning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.pdf)》 and 《[Few-shot Object Detection via Feature Reweighting](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.pdf)》 and conduct experiments on PASCAL VOC and MS COCO datasets.
 
 ### PASCAL VOC
 
