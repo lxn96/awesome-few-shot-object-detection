@@ -15,8 +15,10 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2022
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Label, Verify, Correct: A Simple Few Shot Object Detection Method | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2112.05749.pdf) | [CODE](https://github.com/prannaykaul/lvc) |
 | Few-Shot Object Detection with Fully Cross-Transformer | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2203.15021.pdf) | - |
 | Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment | AAAI 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2104.07719.pdf) | [CODE](https://github.com/GuangxingHan/Meta-Faster-R-CNN) |
+| Few-Shot Object Detection by Attending to Per-Sample-Prototype | WACV 2022 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Lee_Few-Shot_Object_Detection_by_Attending_to_Per-Sample-Prototype_WACV_2022_paper.pdf) | - |
 
 
 ### 2021
@@ -85,4 +87,8 @@ For Pascal VOC, the model is trained on the trainval sets of VOC [2007](https://
 ### MS COCO
 
 [MS COCO](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48) with 80 object categories including the 20 categories in PASCAL VOC. The 20 classes included in PASCAL VOC are set as novel classes, then the rest 60 classes in COCO are as base classes. The union of 80k train images and a 35k subset of validation images (trainval35k) are used for training, and the evaluation is based on the remaining 5k val images (minival).
+
+
+##  Acknowledgements
+Thanks to [Yongqiang Mao](https://wingkeungm.github.io/) for the ideas and templates.
 
