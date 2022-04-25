@@ -24,6 +24,8 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2021
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Generalized and Discriminative Few-Shot Object Detection via SVD-Dictionary Enhancement | NeurIPS 2021 | PASCAL VOC & MS COCO | [PDF](https://proceedings.neurips.cc/paper/2021/hash/325995af77a0e8b06d1204a171010b3a-Abstract.html) | [CODE](https://github.com/AmingWu/SVD-Dictionary-Enhancement) |
+| Few-Shot Object Detection via Association and DIscrimination | NeurIPS 2021 | PASCAL VOC & MS COCO | [PDF](https://proceedings.neurips.cc/paper/2021/hash/8a1e808b55fde9455cb3d8857ed88389-Abstract.html) | [CODE](https://github.com/yhcao6/FADI) |
 | Adaptive Image Transformer for One-Shot Object Detection | CVPR 2021 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.pdf) | [CODE](https://github.com/WOMMOW/AIT) |
 | Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection | CVPR 2021 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Dense_Relation_Distillation_With_Context-Aware_Aggregation_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf) | [CODE](https://github.com/hzhupku/DCNet) |
 | Generalized Few-Shot Object Detection without Forgetting | CVPR 2021 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Generalized_Few-Shot_Object_Detection_Without_Forgetting_CVPR_2021_paper.pdf) | [CODE](https://github.com/Megvii-BaseDetection/GFSD) |
@@ -45,6 +47,7 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2020
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Restoring Negative Information in Few-Shot Object Detection | NeurIPS 2020 | PASCAL VOC & ImageNet-LOC | [PDF](https://proceedings.neurips.cc/paper/2020/hash/240ac9371ec2671ae99847c3ae2e6384-Abstract.html) | [CODE](https://github.com/yang-yk/NP-RepMet) |
 | Context-Transformer: Tackling Object Confusion for Few-Shot Detection | AAAI 2020 | PASCAL VOC & MS COCO | [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/6957/6811) | [CODE](https://github.com/Ze-Yang/Context-Transformer) |
 | Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector | CVPR 2020 | MS COCO & ImageNet-LOC | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Few-Shot_Object_Detection_With_Attention-RPN_and_Multi-Relation_Detector_CVPR_2020_paper.pdf) | [CODE](https://github.com/fanq15/FSOD-code) |
 | Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild | ECCV 2020 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2007.12107.pdf) | [CODE](http://imagine.enpc.fr/~xiaoy/FSDetView/) |
@@ -59,7 +62,7 @@ Collect some papers about few-shot object detection for computer vision. Additio
 | Few-shot Object Detection via Feature Reweighting | ICCV 2019 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.pdf) | [CODE](https://github.com/bingykang/Fewshot_Detection) |
 | RepMet: Representative-based metric learning for classification and few-shot object detection | CVPR 2019 | PASCAL VOC & ImageNet-LOC | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) | [CODE](https://github.com/jshtok/RepMet) |
 | Meta R-CNN : Towards General Solver for Instance-level Low-shot Learning | ICCV 2019 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.pdf) | [CODE](https://github.com/yanxp/MetaR-CNN) |
-| One-Shot Object Detection with Co-Attention and Co-Excitation | NIPS 2019 | PASCAL VOC & MS COCO | [PDF](https://proceedings.neurips.cc/paper/2019/file/92af93f73faf3cefc129b6bc55a748a9-Paper.pdf) | [CODE](https://github.com/timy90022/One-Shot-Object-Detection) |
+| One-Shot Object Detection with Co-Attention and Co-Excitation | NeurIPS 2019 | PASCAL VOC & MS COCO | [PDF](https://proceedings.neurips.cc/paper/2019/file/92af93f73faf3cefc129b6bc55a748a9-Paper.pdf) | [CODE](https://github.com/timy90022/One-Shot-Object-Detection) |
 
 
 ### 2018
