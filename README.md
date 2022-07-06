@@ -15,8 +15,9 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2022
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
-| Label, Verify, Correct: A Simple Few Shot Object Detection Method | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2112.05749.pdf) | [CODE](https://github.com/prannaykaul/lvc) |
-| Few-Shot Object Detection with Fully Cross-Transformer | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2203.15021.pdf) | - |
+| Kernelized Few-shot Object Detection with Efficient Integral Aggregation | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Kernelized_Few-Shot_Object_Detection_With_Efficient_Integral_Aggregation_CVPR_2022_paper.pdf) | [CODE](https://github.com/ZS123-lang/KFSOD) |
+| Label, Verify, Correct: A Simple Few Shot Object Detection Method | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Kaul_Label_Verify_Correct_A_Simple_Few_Shot_Object_Detection_Method_CVPR_2022_paper.pdf) | [CODE](https://github.com/prannaykaul/lvc) |
+| Few-Shot Object Detection with Fully Cross-Transformer | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Few-Shot_Object_Detection_With_Fully_Cross-Transformer_CVPR_2022_paper.pdf) | - |
 | Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment | AAAI 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2104.07719.pdf) | [CODE](https://github.com/GuangxingHan/Meta-Faster-R-CNN) |
 | Few-Shot Object Detection by Attending to Per-Sample-Prototype | WACV 2022 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Lee_Few-Shot_Object_Detection_by_Attending_to_Per-Sample-Prototype_WACV_2022_paper.pdf) | - |
 
