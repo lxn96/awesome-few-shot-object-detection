@@ -60,6 +60,7 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2019
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| MetaDet: Meta-Learning to Detect Rare Objects  | ICCV 2019 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Meta-Learning_to_Detect_Rare_Objects_ICCV_2019_paper.pdf) | - |
 | Few-shot Object Detection via Feature Reweighting | ICCV 2019 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.pdf) | [CODE](https://github.com/bingykang/Fewshot_Detection) |
 | RepMet: Representative-based metric learning for classification and few-shot object detection | CVPR 2019 | PASCAL VOC & ImageNet-LOC | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) | [CODE](https://github.com/jshtok/RepMet) |
 | Meta R-CNN : Towards General Solver for Instance-level Low-shot Learning | ICCV 2019 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.pdf) | [CODE](https://github.com/yanxp/MetaR-CNN) |
