@@ -15,6 +15,19 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2022
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark | ECCV 2022 | LVIS & MS COCO | [PDF](https://arxiv.org/pdf/2207.11169.pdf) | - |
+| AirDet: Few-Shot Detection without Fine-Tuning for Autonomous Exploration | ECCV 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2112.01740.pdf) | [CODE](https://github.com/Jaraxxus-Me/AirDet) |
+| Less than Few: Self-Shot Video Instance Segmentation | ECCV 2022 | MS COCO | [PDF](https://arxiv.org/pdf/2204.08874.pdf) | - |
+| Time-rEversed diffusioN tEnsor Transformer: A New TENET of Few-Shot Object Detection | ECCV 2022 | PASCAL VOC & MS COCO & FSOD | [PDF](https://arxiv.org/pdf/2210.16897.pdf) | [CODE](https://github.com/ZS123-lang/TENET) |
+| VizWiz-FewShot: Locating Objects in Images Taken by People with Visual Impairments | ECCV 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2207.11810.pdf) | [CODE](https://vizwiz.org/) |
+| Multi-faceted Distillation of Base-Novel Commonality for Few-Shot Object Detection | ECCV 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2207.11184.pdf) | [CODE](https://github.com/WuShuang1998/MFDC) |
+| Few-Shot Object Detection by Knowledge Distillation Using Bag-of-Visual-Words Representations | ECCV 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2207.12049.pdf) | - |
+| Few-Shot Object Detection with Model Calibration | ECCV 2022 | PASCAL VOC & MS COCO | [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790707.pdf) | [CODE](https://github.com/fanq15/FewX) |
+| Few-Shot Video Object Detectio | ECCV 2022 | FSVOD-500 | [PDF](https://arxiv.org/pdf/2104.14805.pdf) | [CODE](https://github.com/fanq15/FewX) |
+| Few-Shot Object Counting and Detection | ECCV 2022 | FSCD-147 & FSCD-LVIS | [PDF](https://arxiv.org/pdf/2207.10988.pdf) | [CODE](https://github.com/VinAIResearch/Counting-DETR) |
+| Mutually Reinforcing Structure with Proposal Contrastive Consistency for Few-Shot Object Detection | ECCV 2022 | PASCAL VOC & MS COCO | [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800388.pdf) | [CODE](https://github.com/MMatx/MRSN) |
+| Few-Shot End-to-End Object Detection via Constantly Concentrated Encoding across Heads | ECCV 2022 | PASCAL VOC & MS COCO | [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860056.pdf) | - |
+| AcroFOD: An Adaptive Method for Cross-Domain Few-Shot Object Detection | ECCV 2022 | Cityscapes & SIM10k | [PDF](https://arxiv.org/pdf/2207.11169.pdf) | [CODE](https://github.com/Hlings/AcroFOD) |
 | Kernelized Few-shot Object Detection with Efficient Integral Aggregation | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Kernelized_Few-Shot_Object_Detection_With_Efficient_Integral_Aggregation_CVPR_2022_paper.pdf) | [CODE](https://github.com/ZS123-lang/KFSOD) |
 | Label, Verify, Correct: A Simple Few Shot Object Detection Method | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Kaul_Label_Verify_Correct_A_Simple_Few_Shot_Object_Detection_Method_CVPR_2022_paper.pdf) | [CODE](https://github.com/prannaykaul/lvc) |
 | Few-Shot Object Detection with Fully Cross-Transformer | CVPR 2022 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Few-Shot_Object_Detection_With_Fully_Cross-Transformer_CVPR_2022_paper.pdf) | - |
