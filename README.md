@@ -12,6 +12,12 @@ Collect some papers about few-shot object detection for computer vision. Additio
 | A Unified Framework for Attention-Based Few-Shot Object Detection | ArXiv 2022 | [PDF](https://arxiv.org/pdf/2201.02052.pdf) |
 
 
+### 2023
+| Title | Venue | Dataset | PDF | CODE |
+| :-----|:-----:|:---:|:---:|:----:|
+| Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2211.14782.pdf) | - |
+
+
 ### 2022
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
