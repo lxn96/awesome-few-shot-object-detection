@@ -15,7 +15,7 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2023
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
-| Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2211.14782.pdf) | - |
+| Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2211.14782.pdf) | [CODE](https://github.com/lxn96/ICPE) |
 | Few-Shot Object Detection via Variational Feature Aggregation | AAAI 2023 | - | - | - |
 | Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2208.12681.pdf) | - |
 
