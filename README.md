@@ -15,9 +15,9 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2023
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
-| Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2211.14782.pdf) | [CODE](https://github.com/lxn96/ICPE) |
-| Few-Shot Object Detection via Variational Feature Aggregation | AAAI 2023 |  PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2301.13411.pdf) | [CODE](https://github.com/csuhan/VFA) |
-| Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2208.12681.pdf) | [CODE](https://github.com/ZYN-1101/DandR.git) |
+| Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection(元学习) | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2211.14782.pdf) | [CODE](https://github.com/lxn96/ICPE) |
+| Few-Shot Object Detection via Variational Feature Aggregation (元学习)| AAAI 2023 |  PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2301.13411.pdf) | [CODE](https://github.com/csuhan/VFA) |
+| Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective (因果;CLIP语言模型) | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2208.12681.pdf) | [CODE](https://github.com/ZYN-1101/DandR.git) |
 
 
 ### 2022
