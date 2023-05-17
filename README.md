@@ -15,6 +15,10 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2023
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Generating Features with Increased Crop-related Diversity for Few-Shot Object Detection | CVPR 2023 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Generating_Features_With_Increased_Crop-Related_Diversity_for_Few-Shot_Object_Detection_CVPR_2023_paper.pdf) | - |
+| Meta-tuning Loss Functions and Data Augmentation for Few-shot Object Detection | CVPR 2023 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Demirel_Meta-Tuning_Loss_Functions_and_Data_Augmentation_for_Few-Shot_Object_Detection_CVPR_2023_paper.pdf) | - |
+| NIFF: Alleviating Forgetting in Generalized Few-Shot Object Detection via Neural Instance Feature Forging | CVPR 2023 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Guirguis_NIFF_Alleviating_Forgetting_in_Generalized_Few-Shot_Object_Detection_via_Neural_CVPR_2023_paper.pdf) | - |
+| DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection | CVPR 2023 | PASCAL VOC & MS COCO & LVIS | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_DiGeo_Discriminative_Geometry-Aware_Learning_for_Generalized_Few-Shot_Object_Detection_CVPR_2023_paper.pdf) | - |
 | Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2211.14782.pdf) | [CODE](https://github.com/lxn96/ICPE) |
 | Few-Shot Object Detection via Variational Feature Aggregation | AAAI 2023 |  PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2301.13411.pdf) | [CODE](https://github.com/csuhan/VFA) |
 | Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2208.12681.pdf) | [CODE](https://github.com/ZYN-1101/DandR.git) |
