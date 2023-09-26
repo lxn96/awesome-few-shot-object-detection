@@ -15,6 +15,8 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2023
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training | ICCV 2023 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Bulat_FS-DETR_Few-Shot_DEtection_TRansformer_with_Prompting_and_without_Re-Training_ICCV_2023_paper.pdf) | - |
+| σ-Adaptive Decoupled Prototype for Few-Shot Object Detection | ICCV 2023 | PASCAL VOC & MS COCO & FSOD | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf) | - |
 | Generating Features with Increased Crop-related Diversity for Few-Shot Object Detection | CVPR 2023 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Generating_Features_With_Increased_Crop-Related_Diversity_for_Few-Shot_Object_Detection_CVPR_2023_paper.pdf) | - |
 | Meta-tuning Loss Functions and Data Augmentation for Few-shot Object Detection | CVPR 2023 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Demirel_Meta-Tuning_Loss_Functions_and_Data_Augmentation_for_Few-Shot_Object_Detection_CVPR_2023_paper.pdf) | - |
 | NIFF: Alleviating Forgetting in Generalized Few-Shot Object Detection via Neural Instance Feature Forging | CVPR 2023 | PASCAL VOC & MS COCO | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Guirguis_NIFF_Alleviating_Forgetting_in_Generalized_Few-Shot_Object_Detection_via_Neural_CVPR_2023_paper.pdf) | - |
